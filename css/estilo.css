@@ -1,0 +1,12 @@
+body{
+    padding: 10px;
+}
+
+.titulo_principal{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    color: red;
+
+}
+
